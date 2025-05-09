@@ -9,4 +9,4 @@
 ¿Qué es la latencia en juegos online?|La latencia (o ping) es el tiempo que tarda tu conexión en comunicarse con el servidor del juego; una latencia baja (menos de 50 ms) reduce el lag.
 ¿Qué es un speedrun en videojuegos?|Un speedrun es completar un juego lo más rápido posible, usando estrategias y atajos, popular en juegos como Super Mario o Dark Souls.hola | Sin respuesta
 hola | Sin respuesta
-asd | Sin respuesta
+asd | Hola

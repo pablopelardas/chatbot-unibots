@@ -31,12 +31,11 @@ def buscar_respuesta(preguntas,pregunta):
 
 def main():
     preguntas = obtener_preguntas()
-    while True:
-        pregunta = input('¿Cuál es tu pregunta? (Escribe "salir" para terminar): ')
-        if pregunta.lower() == 'salir':
-            break
+    pregunta = input('¿Cuál es tu pregunta? (Escribe "salir" para terminar): ')
+    while pregunta.lower() != 'salir':
         respuesta = buscar_respuesta(preguntas,pregunta)
         print(f'Respuesta: {respuesta}')
+        pregunta = input('¿Cuál es tu pregunta? (Escribe "salir" para terminar): ')
 
 
 if __name__ == '__main__':
