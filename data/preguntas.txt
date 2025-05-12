@@ -8,6 +8,3 @@
 ¿Cómo reducir el consumo de batería de un control de PlayStation?|Baja el brillo de la barra de luz del control, desactiva la vibración en los ajustes del juego, o usa un cable USB para jugar.
 ¿Qué es la latencia en juegos online?|La latencia (o ping) es el tiempo que tarda tu conexión en comunicarse con el servidor del juego; una latencia baja (menos de 50 ms) reduce el lag.
 ¿Qué es un speedrun en videojuegos?|Un speedrun es completar un juego lo más rápido posible, usando estrategias y atajos, popular en juegos como Super Mario o Dark Souls.
-hola | Sin respuesta
-asd | Hola
-Cuando saldra el GTA VI? | Sin respuesta
